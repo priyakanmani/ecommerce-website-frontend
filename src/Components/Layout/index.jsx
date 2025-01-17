@@ -218,9 +218,9 @@ const Layout = ({ children }) => {
           <div className="footer-column">
             <h3>Quick Links</h3>
             <ul>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-              <li><a href="#">Terms of Service</a></li>
+              <li>About Us</li>
+              <li>Privacy Policy</li>
+              <li>Terms of Service</li>
             </ul>
           </div>
           <div className="footer-column">
